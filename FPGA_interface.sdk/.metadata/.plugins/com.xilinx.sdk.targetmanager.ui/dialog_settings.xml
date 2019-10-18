@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="design_1_wrapper.bit" key="FPGA_interface_HW-bitFile"/>
+	<item value="false" key="FPGA_interface_HW-partial_bit"/>
+	<item value="FPGA_interface_HW" key="programfpga.hwplatform"/>
+	<item value="Local" key="FPGA_interface_HW-target"/>
+	<item value="Auto Detect" key="FPGA_interface_HW-device"/>
+	<item value="" key="FPGA_interface_HW-bmmFile"/>
+</section>
